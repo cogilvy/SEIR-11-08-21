@@ -173,10 +173,6 @@ You will have read-only access to the GA class repo.  However, you most certainl
 2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/SEI-CC/SEIR-11-08-21](https://git.generalassemb.ly/SEI-CC/SEIR-11-08-21)
 3. In the top-right corner of the page, click the `Fork` button. Now you will have a copy of the repo in **your** Enterprise GitHub account!
 
-#### Creating and Using a Github Personal Access Token
-
-[Follow this link here to create a Github Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-
 #### Cloning Your Copy of the Repository Locally
 
 Now that you have a copy of the class repo in your GitHub account, it's time to bring the contents of that repo onto your computer - this process is known as **cloning** and it only needs to be done once:
