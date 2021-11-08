@@ -107,7 +107,7 @@ git config --global init.defaultBranch main
 Run the following command to inform how git should merge fetched commits:
 
 ```
-git config --global pull.rebase truegit config --global pull.rebase true
+git config --global pull.rebase true
 ```
 
 #### Configuring git to use VS Code as its Editor
